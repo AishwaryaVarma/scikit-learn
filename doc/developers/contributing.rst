@@ -4,8 +4,8 @@
 Contributing
 ============
 
-This project is a community effort, and everyone is welcome to
-contribute.
+This project is a community effort, and everyone is welcome to the 
+contribute.Contrib
 
 The project is hosted on https://github.com/scikit-learn/scikit-learn
 
