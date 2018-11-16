@@ -1,5 +1,6 @@
 
-Contributing to scikit-learn
+Contributing to scikit-learn:~
+
 ============================
 
 **Note: This document is a 'getting started' summary for contributing code,
@@ -9,7 +10,7 @@ for the full contributor's guide. Please read it carefully to help make
 the code review process go as smoothly as possible and maximize the
 likelihood of your contribution being merged.
 
-How to contribute
+How to contribute~
 -----------------
 
 The preferred workflow for contributing to scikit-learn is to fork the
@@ -24,8 +25,8 @@ GitHub, clone, and develop on a branch. Steps:
 2. Clone your fork of the scikit-learn repo from your GitHub account to your local disk:
 
    ```bash
-   $ git clone git@github.com:YourLogin/scikit-learn.git
-   $ cd scikit-learn
+   $ [git clone git@github.com:YourLogin/scikit-learn.git]
+   $ cd scikit-learn:branch
    ```
 
 3. Create a ``feature`` branch to hold your development changes:
