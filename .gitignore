@@ -43,6 +43,7 @@ doc/samples
 lfw_preprocessed/
 nips2010_pdf/
 
+
 *.nt.bz2
 *.tar.gz
 *.tgz
