@@ -1,8 +1,8 @@
 # Author: Lars Buitinck
 # License: BSD 3 clause
 
-import numbers
-import warnings
+import math
+import csv
 
 import numpy as np
 import scipy.sparse as sp
